@@ -1,2 +1,7 @@
 ligne1
 ligne2
+
+Git add --all
+Git commit -m "apprendre git"
+Git status
+Git origin master
